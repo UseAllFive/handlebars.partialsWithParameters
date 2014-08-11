@@ -45,3 +45,14 @@ Allow named parameters to be passed to handlebars partials.
    <div class="test-class">value1</div>
    <div class="test-class">value2</div>
    ```
+
+## Contribution Guidelines
+
+Pull requests are always welcome. When submitting a pull request, please
+verify that your code matches the coding standards found in
+[https://github.com/useallfive/frontend-standards](Use All Five's Frontend Coding Standards).
+
+When submitting a pull request, please do not modify any files under the
+`lib` or `dist` paths and do not bump the version in `package.json` or
+`bower.json`. They will be automatically updated after the PR is merged and
+we run `grunt publish`.
