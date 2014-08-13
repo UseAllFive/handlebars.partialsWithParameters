@@ -1,12 +1,12 @@
 {
-  "name": "marionette.enhancedController",
+  "name": "handlebars.partialsWithParameters",
   "version": "1.0.0",
-  "homepage": "https://github.com/UseAllFive/marionette.enhancedController",
+  "homepage": "https://github.com/UseAllFive/handlebars.partialsWithParameters",
   "authors": [
     "Justin Anastos <janastos@useallfive.com>"
   ],
-  "description": "Extend Marionette.Controller to allow for region management and debugging.",
-  "main": "lib/marionette.enhancedController.js",
+  "description": "Allow named parameters to be passed to handlebars partials.",
+  "main": "lib/handlebars.partialsWithParameters.js",
   "moduleType": [
     "amd"
   ],
