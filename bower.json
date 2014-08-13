@@ -23,9 +23,9 @@
     "test",
     "tests"
   ],
-  "dependencies": {},
   "devDependencies": {
     "handlebars": "~1.3.0",
     "underscore": "~1.6.0"
-  }
+  },
+  "endpoint": "git@github.com:UseAllFive/handlebars.partialsWithParameters.git"
 }
