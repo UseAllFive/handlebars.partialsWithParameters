@@ -22,6 +22,7 @@ config = {
 
 module.exports = function(grunt) {
 
+    var bower = grunt.file.readJSON('bower.json');
     var pkg = grunt.file.readJSON('package.json');
 
     grunt.initConfig({
@@ -47,8 +48,7 @@ module.exports = function(grunt) {
 
         bowerRelease: {
             options: {
-                endpoint: 'git@github.com:UseAllFive/handlebars.partialsWithParameters.git',
-                main: 'lib/handlebars.partialsWithParameters.js'
+                endpoint: bower.repository.url
             },
             deploy: {
                 files: [{
