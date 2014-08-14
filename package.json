@@ -1,6 +1,6 @@
 {
   "name": "handlebars.partialsWithParameters",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Extend Marionette.Controller to allow for region management and debugging.",
   "repository": {
     "type": "git",
