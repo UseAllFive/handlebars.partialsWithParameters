@@ -1,17 +1,17 @@
 {
-  "name": "marionette.enhancedController",
+  "name": "handlebars.partialsWithParameters",
   "version": "1.0.4",
   "description": "Extend Marionette.Controller to allow for region management and debugging.",
   "repository": {
     "type": "git",
-    "url": "https://github.com/UseAllFive/marionette.enhancedController.git"
+    "url": "https://github.com/UseAllFive/handlebars.partialsWithParameters.git"
   },
   "author": "Justin Anastos <janastos@useallfive.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/UseAllFive/marionette.enhancedController/issues"
+    "url": "https://github.com/UseAllFive/handlebars.partialsWithParameters/issues"
   },
-  "homepage": "https://github.com/UseAllFive/marionette.enhancedController",
+  "homepage": "https://github.com/UseAllFive/handlebars.partialsWithParameters",
   "devDependencies": {
     "grunt": "^0.4.5",
     "grunt-bower-release": "0.0.5",
